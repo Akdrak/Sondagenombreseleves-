@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulaire de vérification</title>
+  <title>Sondage Nombres d'éléves</title>
 </head>
 <body>
   <h2>Sondage Nombres d'éléves</h2>
@@ -15,7 +15,7 @@
     <input type="text" id="nom" name="Nom" required><br><br>
 
     <label for="adresse">Classe :</label><br>
-    <input type="text" id="adresse" name="Adresse" required><br><br>
+    <input type="text" id="adresse" name="Classe" required><br><br>
 
     <label for="email">Adresse email (optionnel) :</label><br>
     <input type="email" id="email" name="Email"><br><br>
